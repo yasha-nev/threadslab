@@ -1,3 +1,11 @@
-Практика 7
+Практика 8
 
-Анализ текста Толкина
+Игра "ЖИЗНЬ"
+
+для сборки необходимо
+- клонировать библиотеку https://github.com/yasha-nev/TerminalCanvas в папку с проектом
+- cmake -B build
+- cmake --build build
+
+Запуск
+- ./build/livegame
